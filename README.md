@@ -2,7 +2,7 @@
 
 Portfolio de **Raoult Tankou Kamgang** : chef de projet digital, contenu vidéo et automatisation IA. Étudiant en MSc Transformation et Stratégie Digitale (École 89), à la recherche d'une alternance de 24 mois à Paris.
 
-Site : https://rtkdigital.com
+Site : https://rtk-digital.vercel.app
 
 ## Contenu
 - **Athenis** : chef de projet d'une équipe de 4 sur un SaaS de gestion pour PME (Trello, Notion, GitHub).
